@@ -19,7 +19,7 @@
 .card {
     width: 500px;
     height: 300px;
-    color: #fff;
+    color:#fff;
     cursor: pointer;
     perspective: 1000px;
 }
